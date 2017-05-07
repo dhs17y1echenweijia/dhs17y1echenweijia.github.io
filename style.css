@@ -14,4 +14,5 @@ img {
 * {
    Font-family:#0000ff;
 }
+.post-text { color: blue; border: 1px solid red; }
 </style>
