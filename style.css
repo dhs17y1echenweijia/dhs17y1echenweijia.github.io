@@ -1,5 +1,13 @@
  <style>
-    h1,h2,p {
- background-color: Aqua;
+* {
+  font-family: Georgia;
+}
+
+h1, p {
+  color: DarkSlateGray;
+}
+
+p {
+  font-size: 18px;
 }
 </style>
