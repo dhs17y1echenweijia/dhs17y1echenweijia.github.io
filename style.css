@@ -1,6 +1,6 @@
  <style>
     * {
-  font-family: 'Georgia', 'Times', serif;
+  Background:Yellow;
 }
 
 a {
@@ -10,5 +10,8 @@ a {
 
 img {
   border-radius: 100%;
+}
+* {
+   Font:Blue;
 }
 </style>
