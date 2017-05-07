@@ -1,6 +1,6 @@
  <style>
     * {
-  Background:Yellow;
+  background-color:#ff0000;
 }
 
 a {
@@ -12,6 +12,6 @@ img {
   border-radius: 100%;
 }
 * {
-   Font:Blue;
+   Font-family:#0000ff;
 }
 </style>
