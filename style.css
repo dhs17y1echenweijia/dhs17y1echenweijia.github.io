@@ -1,9 +1,9 @@
 <link>
 #body{
-  background-color: lightblue;
+  background-color: #00FFFF;
 }
-#h1,h2{
-  color: lime;
+#h1,#h2{
+  color: #F0E68C;
 }
 </link>
 
